@@ -1,5 +1,4 @@
-<h1>Hi, I'm Kashif! <br/><a href="https://github.com/kashifIT">Computer Programmer</a>, <a href="[https://www.linkedin.com/in/kashif-aziz-khan-2a31aa7/]/">IT Operations Specialist, Cyber Security Specialist</a>
-
+<h1>Hi, I'm Kashif! <br/><a href="https://github.com/kashifIT">Computer Programmer</a>, <a href="https://www.linkedin.com/in/kashif-aziz-khan-2a31aa7/">IT Operations Specialist, Cyber Security Specialist</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
